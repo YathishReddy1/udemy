@@ -19,10 +19,13 @@ public class GoogleSearch2 {
 		 GoogleSearchPage.buttonSearch(driver).sendKeys(Keys.RETURN);
 		 driver.close();
 		System.out.println("Test completed sucessfully");
-
+		System.out.println("qweuqpowpoiqwoe");
+		System.out.println("782937401924102");
+		System.out.println("njsknsdjidcfwif");
 	}
 
 	public static void main(String[] args) {
 		googleSearch();
 	}
 }
+ 
