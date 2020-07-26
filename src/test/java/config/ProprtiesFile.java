@@ -21,7 +21,7 @@ public class ProprtiesFile {
 		
 		InputStream input  = new FileInputStream("E:/SeleniumTrainingByJithendra/Practicals/SeleniumPracticals/Raghavapal/src/test/java/config/config.properties");
 		prop.load(input);
-			
+		System.out.println("new change gitY");	
 		   
 	}
 
